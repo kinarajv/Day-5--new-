@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#\\Bootcamp\\vscode\\Day 5 (new)\\AnotherGeneric\\AnotherGeneric.csproj": {}
+    "c:\\C#\\Bootcamp\\vscode\\Day 5 (new)\\AnotherGeneric\\AnotherGeneric.csproj": {}
   },
   "projects": {
-    "C:\\C#\\Bootcamp\\vscode\\Day 5 (new)\\AnotherGeneric\\AnotherGeneric.csproj": {
+    "c:\\C#\\Bootcamp\\vscode\\Day 5 (new)\\AnotherGeneric\\AnotherGeneric.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#\\Bootcamp\\vscode\\Day 5 (new)\\AnotherGeneric\\AnotherGeneric.csproj",
+        "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day 5 (new)\\AnotherGeneric\\AnotherGeneric.csproj",
         "projectName": "AnotherGeneric",
-        "projectPath": "C:\\C#\\Bootcamp\\vscode\\Day 5 (new)\\AnotherGeneric\\AnotherGeneric.csproj",
+        "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day 5 (new)\\AnotherGeneric\\AnotherGeneric.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "C:\\C#\\Bootcamp\\vscode\\Day 5 (new)\\AnotherGeneric\\obj\\",
+        "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day 5 (new)\\AnotherGeneric\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -6,17 +6,17 @@ public class Program
 	static void Main()
 	{
 		int iterations = 1000000;
-		//string resultString = "";
+		string resultString = "";
 		StringBuilder resultStringBuilder = new StringBuilder();
 		
-		//Stopwatch stopwatch1 = Stopwatch.StartNew();
-		//for (int i = 0; i < iterations; i++)
-		//{
-		//	resultString += "a";
-		//}
-		//stopwatch1.Stop();
+		Stopwatch stopwatch1 = Stopwatch.StartNew();
+		for (int i = 0; i < iterations; i++)
+		{
+			resultString += "a";
+		}
+		stopwatch1.Stop();
 		
-		//Console.WriteLine($"Time String : {stopwatch1.ElapsedMilliseconds} ms");
+		Console.WriteLine($"Time String : {stopwatch1.ElapsedMilliseconds} ms");
 
 		Stopwatch stopwatch2 = Stopwatch.StartNew();
 		for (int i = 0; i < iterations; i++)
