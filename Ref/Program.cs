@@ -3,13 +3,13 @@ class Program
 {
 	static void Main()
 	{
-		int number = 10;
+		int number = 1;
+		string hello = "";
+		// int result = MultiplyByTwo(number);
+		// Console.WriteLine(result); 
 		
-		int result = MultiplyByTwo(number);
-		Console.WriteLine(result); 
-		
-		MultiplyByTwoRef(ref number);
-		Console.WriteLine(number); 
+		bool status = MultiplyByTwoRef(ref number);
+		Console.WriteLine(number + " " + status); 
 	}
 	static int MultiplyByTwo(int x) 
 	{

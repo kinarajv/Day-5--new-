@@ -12,6 +12,9 @@ static class Program
 		enumDays day = (enumDays)Enum.Parse(typeof(enumDays), userDays);
 		Console.WriteLine("Parsed enum value : " + day);
 		Console.WriteLine("Parsed enum value : " + (int)day);
+
+		Console.WriteLine((int)enumDays.Monday);
+		enumDays y = (enumDays)0;
 	}
 }
 

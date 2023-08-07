@@ -5,7 +5,7 @@ public class Program
 {
 	static void Main()
 	{
-		int iterations = 1000000;
+		int iterations = 10000;
 		string resultString = "";
 		StringBuilder resultStringBuilder = new StringBuilder();
 		
