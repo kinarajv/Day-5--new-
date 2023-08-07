@@ -41,7 +41,7 @@ namespace Object
                 Console.WriteLine(str5);
             }
 
-            object obj7 = "23";
+            object obj7 = 0;
             int j = obj7 as int? ?? 0;
             Console.WriteLine(j);
         }

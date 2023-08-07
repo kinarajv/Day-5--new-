@@ -1,17 +1,17 @@
 public class ToyBox<T> // T = type data
 {
-    private T Toy;
+	private T Toy;
 
-    public ToyBox(T value)
-    {
-        Toy = value;
-    }
+	public ToyBox(T value)
+	{
+		Toy = value;
+	}
 
-    public T ToyBoxMethod(T parameter)
-    {
-        Console.WriteLine($"Mainan : {Toy}");
-        Console.WriteLine($"Parameter : {parameter}");
+	public T ToyBoxMethod(T parameter)
+	{
+		Console.WriteLine($"Mainan : {Toy}");
+		Console.WriteLine($"Parameter : {parameter}");
 
-        return parameter;
-    }
+		return parameter;
+	}
 }

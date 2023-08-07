@@ -9,5 +9,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Content Include="Program.cs" />
+    <Content Include="Untitled-1.ipynb" />
+    <Content Include="Const vs Readonly.ipynb" />
   </ItemGroup>
 </Project>

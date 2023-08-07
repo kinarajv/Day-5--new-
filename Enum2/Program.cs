@@ -4,21 +4,20 @@ static class Program
 {
 	static void Main()
 	{
-		enumDays day1 = enumDays.Monday;
+		DaysOfWeek day1 = DaysOfWeek.Monday;
 		Console.WriteLine(day1); // output:
 		Console.WriteLine((int)day1);  // output:
 
 		string userDays = "Monday";
-		enumDays day = (enumDays)Enum.Parse(typeof(enumDays), userDays);
+		DaysOfWeek day = (DaysOfWeek)Enum.Parse(typeof(DaysOfWeek), userDays);
 		Console.WriteLine("Parsed enum value : " + day);
 		Console.WriteLine("Parsed enum value : " + (int)day);
 
-		Console.WriteLine((int)enumDays.Monday);
-		enumDays y = (enumDays)0;
+		Console.WriteLine((int)DaysOfWeek.Monday);
+		DaysOfWeek y = (DaysOfWeek)0;
 	}
 }
-
-public enum enumDays
+public enum DaysOfWeek
 {
 	Monday,
 	Tuesday,

@@ -3,3 +3,13 @@ c:\C#\Bootcamp\vscode\Day 5 (new)\Trial\obj\Debug\net7.0\Trial.GeneratedMSBuildE
 c:\C#\Bootcamp\vscode\Day 5 (new)\Trial\obj\Debug\net7.0\Trial.AssemblyInfoInputs.cache
 c:\C#\Bootcamp\vscode\Day 5 (new)\Trial\obj\Debug\net7.0\Trial.AssemblyInfo.cs
 c:\C#\Bootcamp\vscode\Day 5 (new)\Trial\obj\Debug\net7.0\Trial.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 5 (new)\Trial\bin\Debug\net7.0\Trial.exe
+c:\C#\Bootcamp\vscode\Day 5 (new)\Trial\bin\Debug\net7.0\Trial.deps.json
+c:\C#\Bootcamp\vscode\Day 5 (new)\Trial\bin\Debug\net7.0\Trial.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 5 (new)\Trial\bin\Debug\net7.0\Trial.dll
+c:\C#\Bootcamp\vscode\Day 5 (new)\Trial\bin\Debug\net7.0\Trial.pdb
+c:\C#\Bootcamp\vscode\Day 5 (new)\Trial\obj\Debug\net7.0\Trial.dll
+c:\C#\Bootcamp\vscode\Day 5 (new)\Trial\obj\Debug\net7.0\refint\Trial.dll
+c:\C#\Bootcamp\vscode\Day 5 (new)\Trial\obj\Debug\net7.0\Trial.pdb
+c:\C#\Bootcamp\vscode\Day 5 (new)\Trial\obj\Debug\net7.0\Trial.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 5 (new)\Trial\obj\Debug\net7.0\ref\Trial.dll

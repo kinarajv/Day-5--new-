@@ -4,7 +4,7 @@ public class Program
 {
 	public enum DaysOfWeek
 	{
-		Monday ,
+		Monday =0,
 		Tuesday,
 		Wednesday,
 		Thursday,
@@ -16,7 +16,7 @@ public class Program
 	public static void Main()
 	{
 		DaysOfWeek today = DaysOfWeek.Monday;
-
+		Console.WriteLine((int)today);
 		Console.WriteLine("Today is: " + today);
 		
 		switch (today)

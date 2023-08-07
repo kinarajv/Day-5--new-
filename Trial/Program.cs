@@ -1,16 +1,16 @@
-﻿public class Pair<T1, T2>
+﻿public enum DaysOfWeek
 {
-    public T1 First;
-    public T2 Second;
+		A = 1,
+		B = 5,
+		C = 5,
+		D = 5,
+		E = 2,
+		F = 5,
+		G
+}
 
-    public Pair(T1 first, T2 second)
-    {
-        this.First = first;
-        this.Second = second;
-    }
-
-    public bool Equals(Pair<T1, T2> other)
-    {
-        return First == other.First;
-    }
+class Program{
+static void Main() {
+	Console.WriteLine((DaysOfWeek)5);
+}
 }

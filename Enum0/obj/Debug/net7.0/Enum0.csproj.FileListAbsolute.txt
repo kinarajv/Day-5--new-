@@ -1,0 +1,15 @@
+c:\C#\Bootcamp\vscode\Day 5 (new)\Enum0\bin\Debug\net7.0\Enum0.exe
+c:\C#\Bootcamp\vscode\Day 5 (new)\Enum0\bin\Debug\net7.0\Enum0.deps.json
+c:\C#\Bootcamp\vscode\Day 5 (new)\Enum0\bin\Debug\net7.0\Enum0.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 5 (new)\Enum0\bin\Debug\net7.0\Enum0.dll
+c:\C#\Bootcamp\vscode\Day 5 (new)\Enum0\bin\Debug\net7.0\Enum0.pdb
+c:\C#\Bootcamp\vscode\Day 5 (new)\Enum0\obj\Debug\net7.0\Enum0.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 5 (new)\Enum0\obj\Debug\net7.0\Enum0.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 5 (new)\Enum0\obj\Debug\net7.0\Enum0.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 5 (new)\Enum0\obj\Debug\net7.0\Enum0.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 5 (new)\Enum0\obj\Debug\net7.0\Enum0.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 5 (new)\Enum0\obj\Debug\net7.0\Enum0.dll
+c:\C#\Bootcamp\vscode\Day 5 (new)\Enum0\obj\Debug\net7.0\refint\Enum0.dll
+c:\C#\Bootcamp\vscode\Day 5 (new)\Enum0\obj\Debug\net7.0\Enum0.pdb
+c:\C#\Bootcamp\vscode\Day 5 (new)\Enum0\obj\Debug\net7.0\Enum0.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 5 (new)\Enum0\obj\Debug\net7.0\ref\Enum0.dll
