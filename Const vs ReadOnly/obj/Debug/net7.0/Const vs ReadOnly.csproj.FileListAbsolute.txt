@@ -1,0 +1,15 @@
+c:\C#\Bootcamp\vscode\Day 5 (new)\Const vs ReadOnly\obj\Debug\net7.0\Const vs ReadOnly.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 5 (new)\Const vs ReadOnly\obj\Debug\net7.0\Const vs ReadOnly.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 5 (new)\Const vs ReadOnly\obj\Debug\net7.0\Const vs ReadOnly.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 5 (new)\Const vs ReadOnly\obj\Debug\net7.0\Const vs ReadOnly.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 5 (new)\Const vs ReadOnly\obj\Debug\net7.0\Const vs ReadOnly.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 5 (new)\Const vs ReadOnly\bin\Debug\net7.0\Const vs ReadOnly.exe
+c:\C#\Bootcamp\vscode\Day 5 (new)\Const vs ReadOnly\bin\Debug\net7.0\Const vs ReadOnly.deps.json
+c:\C#\Bootcamp\vscode\Day 5 (new)\Const vs ReadOnly\bin\Debug\net7.0\Const vs ReadOnly.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 5 (new)\Const vs ReadOnly\bin\Debug\net7.0\Const vs ReadOnly.dll
+c:\C#\Bootcamp\vscode\Day 5 (new)\Const vs ReadOnly\bin\Debug\net7.0\Const vs ReadOnly.pdb
+c:\C#\Bootcamp\vscode\Day 5 (new)\Const vs ReadOnly\obj\Debug\net7.0\Const vs ReadOnly.dll
+c:\C#\Bootcamp\vscode\Day 5 (new)\Const vs ReadOnly\obj\Debug\net7.0\refint\Const vs ReadOnly.dll
+c:\C#\Bootcamp\vscode\Day 5 (new)\Const vs ReadOnly\obj\Debug\net7.0\Const vs ReadOnly.pdb
+c:\C#\Bootcamp\vscode\Day 5 (new)\Const vs ReadOnly\obj\Debug\net7.0\Const vs ReadOnly.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 5 (new)\Const vs ReadOnly\obj\Debug\net7.0\ref\Const vs ReadOnly.dll
