@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Out", "Out\Out.csproj", "{9
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Const vs ReadOnly", "Const vs ReadOnly\Const vs ReadOnly.csproj", "{D228814B-8C2D-442E-B2F7-50F295F9A6DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Object", "Object\Object.csproj", "{2DA90454-57E2-4F37-AEDF-632A2B45D097}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -114,5 +116,9 @@ Global
 		{D228814B-8C2D-442E-B2F7-50F295F9A6DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D228814B-8C2D-442E-B2F7-50F295F9A6DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D228814B-8C2D-442E-B2F7-50F295F9A6DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DA90454-57E2-4F37-AEDF-632A2B45D097}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DA90454-57E2-4F37-AEDF-632A2B45D097}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DA90454-57E2-4F37-AEDF-632A2B45D097}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DA90454-57E2-4F37-AEDF-632A2B45D097}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
